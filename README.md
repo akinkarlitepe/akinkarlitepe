@@ -2,14 +2,16 @@
 🎓 Kocaeli University Software Engineer graduate  
 🌐 Deep learning, Machine learning, NLP, Image processing  
 🛠️ Software Engineer | AI Engineer  
-------------------
+**------------------**
 
 
 
 
 
   
-##💻 Technical Skills  
+**💻 Technical Skills**  
+---  
+
 ● Languages: Bash 🐚, Python 🐍, C 🖥️, C++, C#  
 ● Dev Tools: Git, Docker, Kubernetes  
 ● DB/Infra: msSQL, SQLite, PostgreSQL, MongoDB  
