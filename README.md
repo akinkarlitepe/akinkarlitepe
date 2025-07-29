@@ -2,7 +2,7 @@
 🎓 Kocaeli University Software Engineer graduate  
 🌐 Deep learning, Machine learning, NLP, Image processing  
 🛠️ Software Engineer | AI Engineer  
-**------------------**
+---
 
 
 
