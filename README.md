@@ -1,5 +1,5 @@
 ## Hi I'm Akın 👋
-🎓 Kocaeli University Software Engineer graduate
+🎓 Kocaeli University Software Engineer graduate  
 🌐 Deep learning, Machine learning, NLP, Image processing
 🛠️ Software Engineer | AI Engineer
 
