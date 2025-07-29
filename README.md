@@ -1,12 +1,12 @@
 ## Hi I'm Akın 👋
 🎓 Kocaeli University Software Engineer graduate  
-🌐 Deep learning, Machine learning, NLP, Image processing
-🛠️ Software Engineer | AI Engineer
-
-💻 Technical Skills
-. Languages: Bash 🐚, Python 🐍, C 🖥️, C++, C#
-. Dev Tools: Git, Docker, Kubernetes
-. DB/Infra: msSQL, SQLite, PostgreSQL, MongoDB
+🌐 Deep learning, Machine learning, NLP, Image processing  
+🛠️ Software Engineer | AI Engineer  
+  
+💻 Technical Skills  
+. Languages: Bash 🐚, Python 🐍, C 🖥️, C++, C#  
+. Dev Tools: Git, Docker, Kubernetes  
+. DB/Infra: msSQL, SQLite, PostgreSQL, MongoDB  
 . Web: HTML, PHP, JavaScript, React
 
 <!--
