@@ -9,7 +9,7 @@
 
 
   
-💻 Technical Skills  
+##💻 Technical Skills  
 ● Languages: Bash 🐚, Python 🐍, C 🖥️, C++, C#  
 ● Dev Tools: Git, Docker, Kubernetes  
 ● DB/Infra: msSQL, SQLite, PostgreSQL, MongoDB  
